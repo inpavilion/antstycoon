@@ -16,7 +16,6 @@
 var dataCacheName = 'antsData-v1';
 var cacheName = 'antsPWA-final-1';
 var filesToCache = [
-    '/',
     'index.html',
     'main.js',
     '1.js',
