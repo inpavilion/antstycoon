@@ -84,10 +84,17 @@ self.addEventListener('fetch', function(e) {
      * "Cache, falling back to the network" offline strategy:
      * https://jakearchibald.com/2014/offline-cookbook/#cache-falling-back-to-network
      */
-    e.respondWith(
-      caches.match(e.request).then(function(response) {
-        return response || fetch(e.request);
-      })
-    );
+    
+    event.respondWith(async function() {
+      try {
+        return await fetch(e.request).then( function (response) {
+          caches.put( e.request.url, response.clone() )
+          return response;
+        });
+      } catch (err) {
+        return caches.match(event.request);
+      }
+    })
+
   }
 });
