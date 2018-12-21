@@ -1,11 +1,11 @@
 {
-  "version" : 1,
+  "version" : 2,
   "background_color": "#007abc",
   "description": "Preparing the journey for ideas .",
   "display": "fullscreen",
   "icons": [
     {
-      "src": "/pwa/icon.png",
+      "src": "/icon.png",
       "sizes": "192x192",
       "type": "image/png"
     }
