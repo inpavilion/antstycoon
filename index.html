@@ -7,14 +7,12 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Re:view</title>
 
-  <link rel="manifest" href="pwa/manifest.json">
+  <link rel="manifest" href="manifest.json">
 
   <script type="text/javascript">
 
     console.log( "serviceWorker");
     if ('serviceWorker' in navigator) {
-
-      console.log( "hey")
       navigator.serviceWorker
         .register('sw.js')
         .then(function () { console.log('Service Worker Registered'); })
