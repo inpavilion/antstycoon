@@ -17,10 +17,10 @@ var dataCacheName = 'antsData-v1';
 var cacheName = 'antsPWA-final-1';
 var filesToCache = [
     '/',
-    '/index.html',
-    '/main.js',
-    '/1.js',
-    '/2.js'
+    './index.html',
+    './main.js',
+    './1.js',
+    './2.js'
 ];
 
 self.addEventListener('install', function(e) {
