@@ -1,18 +1,15 @@
 {
-  "version" : 2,
-  "background_color": "#007abc",
-  "theme" : "#007abc",
-  
-  "description": "Preparing the journey for ideas .",
-  "display": "standalone",
+"v" : 2,
+  "short_name": "ants",
+  "name": "AntsTycoon",
   "icons": [
     {
-      "src": "icon.png",
-      "sizes": "72x72",
-      "type": "image/png"
+      "src": "logo.svg",
+      "sizes": "64x64 32x32 24x24 16x16 144x144"
     }
   ],
-  "name": "antsTyconn",
-  "short_name": "Ants",
-  "start_url": "index.html"
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#007abc",
+  "theme" : "#007abc"
 }
