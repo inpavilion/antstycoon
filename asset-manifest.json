@@ -1,7 +1,7 @@
 {
   "main.css": "/antstycoon/static/css/main.feba4814.chunk.css",
-  "main.js": "/antstycoon/static/js/main.07f844b7.chunk.js",
-  "main.js.map": "/antstycoon/static/js/main.07f844b7.chunk.js.map",
+  "main.js": "/antstycoon/static/js/main.aa4ace8a.chunk.js",
+  "main.js.map": "/antstycoon/static/js/main.aa4ace8a.chunk.js.map",
   "static/css/1.26117106.chunk.css": "/antstycoon/static/css/1.26117106.chunk.css",
   "static/js/1.e47fb7b9.chunk.js": "/antstycoon/static/js/1.e47fb7b9.chunk.js",
   "static/js/1.e47fb7b9.chunk.js.map": "/antstycoon/static/js/1.e47fb7b9.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/media/logo.svg": "/antstycoon/static/media/logo.06a44ff7.svg",
   "static/css/main.feba4814.chunk.css.map": "/antstycoon/static/css/main.feba4814.chunk.css.map",
   "index.html": "/antstycoon/index.html",
-  "precache-manifest.328b9de530ffc70babdb7c07766ab96c.js": "/antstycoon/precache-manifest.328b9de530ffc70babdb7c07766ab96c.js",
+  "precache-manifest.e0b8cb2709a47a6e867d60f98471d2fc.js": "/antstycoon/precache-manifest.e0b8cb2709a47a6e867d60f98471d2fc.js",
   "service-worker.js": "/antstycoon/service-worker.js"
 }
