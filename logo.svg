@@ -1,98 +1,18 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" > <polygon
-                  class='poligon poligon_2'
-                  points="0 0 0.5 0.5 1 0" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.42725875026371796; 
-                  transform: scale(25) translate( 0px, 0px)" /><polygon
-                  class='poligon poligon_4'
-                  points="0 0 0.5 0.5 0 1" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.0886608724740654; 
-                  transform: scale(25) translate( 0px, 0px)" /><polygon
-                  class='poligon poligon_1'
-                  points="1 1 0.5 0.5 0 1" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.19587514462136824; 
-                  transform: scale(25) translate( 0px, 0px)" /><polygon
-                  class='poligon poligon_2'
-                  points="1 1 0.5 0.5 1 0" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.6324075620450458; 
-                  transform: scale(25) translate( 0px, 0px)" /><polygon
-                  class='poligon poligon_0'
-                  points="0 0 0.5 0.5 1 0" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.09670435008865752; 
-                  transform: scale(25) translate( 0px, 1px)" /><polygon
-                  class='poligon poligon_2'
-                  points="0 0 0.5 0.5 0 1" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.5145177011518172; 
-                  transform: scale(25) translate( 0px, 1px)" /><polygon
-                  class='poligon poligon_0'
-                  points="1 1 0.5 0.5 0 1" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.6374530878074438; 
-                  transform: scale(25) translate( 0px, 1px)" /><polygon
-                  class='poligon poligon_2'
-                  points="1 1 0.5 0.5 1 0" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.56944697069639; 
-                  transform: scale(25) translate( 0px, 1px)" /><polygon
-                  class='poligon poligon_3'
-                  points="0 0 0.5 0.5 1 0" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.39626029790451867; 
-                  transform: scale(25) translate( 1px, 0px)" /><polygon
-                  class='poligon poligon_0'
-                  points="0 0 0.5 0.5 0 1" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.5642244931532332; 
-                  transform: scale(25) translate( 1px, 0px)" /><polygon
-                  class='poligon poligon_2'
-                  points="1 1 0.5 0.5 0 1" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.8582905734487554; 
-                  transform: scale(25) translate( 1px, 0px)" /><polygon
-                  class='poligon poligon_3'
-                  points="1 1 0.5 0.5 1 0" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.30972023822687333; 
-                  transform: scale(25) translate( 1px, 0px)" /><polygon
-                  class='poligon poligon_1'
-                  points="0 0 0.5 0.5 1 0" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.16745510971122712; 
-                  transform: scale(25) translate( 1px, 1px)" /><polygon
-                  class='poligon poligon_1'
-                  points="0 0 0.5 0.5 0 1" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.6238962140887452; 
-                  transform: scale(25) translate( 1px, 1px)" /><polygon
-                  class='poligon poligon_4'
-                  points="1 1 0.5 0.5 0 1" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.3488110737052921; 
-                  transform: scale(25) translate( 1px, 1px)" /><polygon
-                  class='poligon poligon_5'
-                  points="1 1 0.5 0.5 1 0" stroke="transparent" fill="transparent" 
-                  style=" strokeWidth: 0.04;
-                  fill: hsl( 205.7009006088691,100% ,38.67543642598593%  );
-                  opacity : 0.5897989596860498; 
-                  transform: scale(25) translate( 1px, 1px)" /></svg>
+<svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+<polygon class="poligon poligon_2" points="0 0 0.5 0.5 1 0" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".42726" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 0px, 0px)"></polygon>
+<polygon class="poligon poligon_4" points="0 0 0.5 0.5 0 1" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".088661" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 0px, 0px)"></polygon>
+<polygon class="poligon poligon_1" points="1 1 0.5 0.5 0 1" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".19588" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 0px, 0px)"></polygon>
+<polygon class="poligon poligon_2" points="1 1 0.5 0.5 1 0" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".63241" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 0px, 0px)"></polygon>
+<polygon class="poligon poligon_0" points="0 0 0.5 0.5 1 0" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".096704" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 0px, 1px)"></polygon>
+<polygon class="poligon poligon_2" points="0 0 0.5 0.5 0 1" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".51452" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 0px, 1px)"></polygon>
+<polygon class="poligon poligon_0" points="1 1 0.5 0.5 0 1" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".63745" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 0px, 1px)"></polygon>
+<polygon class="poligon poligon_2" points="1 1 0.5 0.5 1 0" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".56945" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 0px, 1px)"></polygon>
+<polygon class="poligon poligon_3" points="0 0 0.5 0.5 1 0" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".39626" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 1px, 0px)"></polygon>
+<polygon class="poligon poligon_0" points="0 0 0.5 0.5 0 1" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".56422" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 1px, 0px)"></polygon>
+<polygon class="poligon poligon_2" points="1 1 0.5 0.5 0 1" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".85829" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 1px, 0px)"></polygon>
+<polygon class="poligon poligon_3" points="1 1 0.5 0.5 1 0" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".30972" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 1px, 0px)"></polygon>
+<polygon class="poligon poligon_1" points="0 0 0.5 0.5 1 0" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".16746" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 1px, 1px)"></polygon>
+<polygon class="poligon poligon_1" points="0 0 0.5 0.5 0 1" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".6239" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 1px, 1px)"></polygon>
+<polygon class="poligon poligon_4" points="1 1 0.5 0.5 0 1" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".34881" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 1px, 1px)"></polygon>
+<polygon class="poligon poligon_5" points="1 1 0.5 0.5 1 0" fill="hsl( 205.7009006088691,100% ,38.67543642598593%  )" opacity=".5898" stroke="transparent" style="strokeWidth:0.04;transform:scale(25) translate( 1px, 1px)"></polygon>
+</svg>

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/antstycoon/precache-manifest.2f1c88fb38b3ae1baae9b34ad0532bc7.js"
+  "/antstycoon/precache-manifest.4bd0f514362bc73a6d7036bcccee08ff.js"
 );
 
 workbox.clientsClaim();

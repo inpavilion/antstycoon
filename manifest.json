@@ -5,11 +5,11 @@
   "icons": [
     {
       "src": "logo.svg",
-      "sizes": "64x64 32x32 24x24 16x16 144x144"
+      "sizes": "50x50"
     }
   ],
   "start_url": ".",
   "display": "standalone",
   "background_color": "#007abc",
-  "theme" : "#007abc"
+  "theme_color" : "#ddd"
 }
