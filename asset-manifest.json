@@ -1,16 +1,16 @@
 {
   "main.css": "/antstycoon/static/css/main.41ad8817.chunk.css",
-  "main.js": "/antstycoon/static/js/main.0ed755dc.chunk.js",
-  "main.js.map": "/antstycoon/static/js/main.0ed755dc.chunk.js.map",
+  "main.js": "/antstycoon/static/js/main.36985239.chunk.js",
+  "main.js.map": "/antstycoon/static/js/main.36985239.chunk.js.map",
   "static/css/1.e51b5fc3.chunk.css": "/antstycoon/static/css/1.e51b5fc3.chunk.css",
-  "static/js/1.1ff0de14.chunk.js": "/antstycoon/static/js/1.1ff0de14.chunk.js",
-  "static/js/1.1ff0de14.chunk.js.map": "/antstycoon/static/js/1.1ff0de14.chunk.js.map",
+  "static/js/1.b2b05494.chunk.js": "/antstycoon/static/js/1.b2b05494.chunk.js",
+  "static/js/1.b2b05494.chunk.js.map": "/antstycoon/static/js/1.b2b05494.chunk.js.map",
   "runtime~main.js": "/antstycoon/static/js/runtime~main.d9f6f225.js",
   "runtime~main.js.map": "/antstycoon/static/js/runtime~main.d9f6f225.js.map",
-  "static/css/main.41ad8817.chunk.css.map": "/antstycoon/static/css/main.41ad8817.chunk.css.map",
-  "static/media/logo.svg": "/antstycoon/static/media/logo.06a44ff7.svg",
   "static/css/1.e51b5fc3.chunk.css.map": "/antstycoon/static/css/1.e51b5fc3.chunk.css.map",
+  "static/media/logo.svg": "/antstycoon/static/media/logo.06a44ff7.svg",
+  "static/css/main.41ad8817.chunk.css.map": "/antstycoon/static/css/main.41ad8817.chunk.css.map",
   "index.html": "/antstycoon/index.html",
-  "precache-manifest.9e73f4b7925af99667e07e66c89791e2.js": "/antstycoon/precache-manifest.9e73f4b7925af99667e07e66c89791e2.js",
+  "precache-manifest.80616676c72109ebe2faf26f4281a4ca.js": "/antstycoon/precache-manifest.80616676c72109ebe2faf26f4281a4ca.js",
   "service-worker.js": "/antstycoon/service-worker.js"
 }
